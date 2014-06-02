@@ -1,0 +1,6 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\DiamondTrolls\bin\Debug\DiamondTrolls.exe.config
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\DiamondTrolls\bin\Debug\DiamondTrolls.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\DiamondTrolls\bin\Debug\DiamondTrolls.pdb
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\DiamondTrolls\obj\Debug\DiamondTrolls.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\DiamondTrolls\obj\Debug\DiamondTrolls.pdb
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\DiamondTrolls\obj\Debug\DiamondTrolls.csprojResolveAssemblyReference.cache

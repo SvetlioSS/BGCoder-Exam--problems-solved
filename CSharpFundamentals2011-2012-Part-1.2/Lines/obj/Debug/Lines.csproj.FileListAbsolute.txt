@@ -1,0 +1,6 @@
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.2\Lines\bin\Debug\Lines.exe.config
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.2\Lines\bin\Debug\Lines.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.2\Lines\bin\Debug\Lines.pdb
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.2\Lines\obj\Debug\Lines.csprojResolveAssemblyReference.cache
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.2\Lines\obj\Debug\Lines.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.2\Lines\obj\Debug\Lines.pdb

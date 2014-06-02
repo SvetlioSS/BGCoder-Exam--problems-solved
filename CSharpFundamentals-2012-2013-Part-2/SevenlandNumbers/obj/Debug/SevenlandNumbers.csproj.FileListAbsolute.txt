@@ -1,0 +1,8 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe.config
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2\SevenlandNumbers\bin\Debug\SevenlandNumbers.pdb
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2\SevenlandNumbers\obj\Debug\SevenlandNumbers.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2\SevenlandNumbers\obj\Debug\SevenlandNumbers.pdb
+C:\Users\svetl_000\Desktop\OldTasks\CSharpFundamentals-2012-2013-Part-2\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe.config
+C:\Users\svetl_000\Desktop\OldTasks\CSharpFundamentals-2012-2013-Part-2\SevenlandNumbers\obj\Debug\SevenlandNumbers.exe
+C:\Users\svetl_000\Desktop\OldTasks\CSharpFundamentals-2012-2013-Part-2\SevenlandNumbers\obj\Debug\SevenlandNumbers.pdb

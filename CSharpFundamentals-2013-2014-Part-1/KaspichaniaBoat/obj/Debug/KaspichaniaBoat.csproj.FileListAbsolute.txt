@@ -1,0 +1,6 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\KaspichaniaBoat\bin\Debug\KaspichaniaBoat.exe.config
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\KaspichaniaBoat\bin\Debug\KaspichaniaBoat.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\KaspichaniaBoat\bin\Debug\KaspichaniaBoat.pdb
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\KaspichaniaBoat\obj\Debug\KaspichaniaBoat.csprojResolveAssemblyReference.cache
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\KaspichaniaBoat\obj\Debug\KaspichaniaBoat.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\KaspichaniaBoat\obj\Debug\KaspichaniaBoat.pdb

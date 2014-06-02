@@ -1,0 +1,6 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-6\CardWars\bin\Debug\CardWars.exe.config
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-6\CardWars\bin\Debug\CardWars.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-6\CardWars\bin\Debug\CardWars.pdb
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-6\CardWars\obj\Debug\CardWars.csprojResolveAssemblyReference.cache
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-6\CardWars\obj\Debug\CardWars.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-6\CardWars\obj\Debug\CardWars.pdb

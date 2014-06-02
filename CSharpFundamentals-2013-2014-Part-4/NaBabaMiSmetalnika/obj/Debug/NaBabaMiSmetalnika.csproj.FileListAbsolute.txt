@@ -1,0 +1,6 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-4\NaBabaMiSmetalnika\bin\Debug\NaBabaMiSmetalnika.exe.config
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-4\NaBabaMiSmetalnika\bin\Debug\NaBabaMiSmetalnika.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-4\NaBabaMiSmetalnika\bin\Debug\NaBabaMiSmetalnika.pdb
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-4\NaBabaMiSmetalnika\obj\Debug\NaBabaMiSmetalnika.csprojResolveAssemblyReference.cache
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-4\NaBabaMiSmetalnika\obj\Debug\NaBabaMiSmetalnika.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-4\NaBabaMiSmetalnika\obj\Debug\NaBabaMiSmetalnika.pdb

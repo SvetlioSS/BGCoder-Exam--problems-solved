@@ -1,0 +1,6 @@
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\Carpets\bin\Debug\Carpets.exe.config
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\Carpets\bin\Debug\Carpets.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\Carpets\bin\Debug\Carpets.pdb
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\Carpets\obj\Debug\Carpets.csprojResolveAssemblyReference.cache
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\Carpets\obj\Debug\Carpets.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\Carpets\obj\Debug\Carpets.pdb

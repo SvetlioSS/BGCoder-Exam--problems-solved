@@ -1,0 +1,6 @@
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\CartesianSystem\bin\Debug\CartesianSystem.exe.config
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\CartesianSystem\bin\Debug\CartesianSystem.exe
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\CartesianSystem\bin\Debug\CartesianSystem.pdb
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\CartesianSystem\obj\Debug\CartesianSystem.csprojResolveAssemblyReference.cache
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\CartesianSystem\obj\Debug\CartesianSystem.exe
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\CartesianSystem\obj\Debug\CartesianSystem.pdb

@@ -1,0 +1,6 @@
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\GameOfPage\bin\Debug\GameOfPage.exe.config
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\GameOfPage\bin\Debug\GameOfPage.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\GameOfPage\bin\Debug\GameOfPage.pdb
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\GameOfPage\obj\Debug\GameOfPage.csprojResolveAssemblyReference.cache
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\GameOfPage\obj\Debug\GameOfPage.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\GameOfPage\obj\Debug\GameOfPage.pdb

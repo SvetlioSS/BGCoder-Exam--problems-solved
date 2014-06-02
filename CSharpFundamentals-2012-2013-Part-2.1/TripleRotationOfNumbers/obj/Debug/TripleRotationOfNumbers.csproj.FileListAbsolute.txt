@@ -1,0 +1,6 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2.1\TripleRotationOfNumbers\bin\Debug\TripleRotationOfNumbers.exe.config
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2.1\TripleRotationOfNumbers\bin\Debug\TripleRotationOfNumbers.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2.1\TripleRotationOfNumbers\bin\Debug\TripleRotationOfNumbers.pdb
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2.1\TripleRotationOfNumbers\obj\Debug\TripleRotationOfNumbers.csprojResolveAssemblyReference.cache
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2.1\TripleRotationOfNumbers\obj\Debug\TripleRotationOfNumbers.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2.1\TripleRotationOfNumbers\obj\Debug\TripleRotationOfNumbers.pdb

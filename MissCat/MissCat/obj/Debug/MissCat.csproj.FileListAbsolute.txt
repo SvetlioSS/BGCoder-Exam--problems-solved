@@ -1,0 +1,6 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\MissCat\MissCat\bin\Debug\MissCat.exe.config
+c:\users\svetl_000\documents\visual studio 2012\Projects\MissCat\MissCat\bin\Debug\MissCat.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\MissCat\MissCat\bin\Debug\MissCat.pdb
+c:\users\svetl_000\documents\visual studio 2012\Projects\MissCat\MissCat\obj\Debug\MissCat.csprojResolveAssemblyReference.cache
+c:\users\svetl_000\documents\visual studio 2012\Projects\MissCat\MissCat\obj\Debug\MissCat.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\MissCat\MissCat\obj\Debug\MissCat.pdb

@@ -1,0 +1,6 @@
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-5\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-5\BullsAndCows\bin\Debug\BullsAndCows.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-5\BullsAndCows\bin\Debug\BullsAndCows.pdb
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-5\BullsAndCows\obj\Debug\BullsAndCows.csprojResolveAssemblyReference.cache
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-5\BullsAndCows\obj\Debug\BullsAndCows.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-5\BullsAndCows\obj\Debug\BullsAndCows.pdb

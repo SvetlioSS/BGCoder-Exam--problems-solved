@@ -1,0 +1,6 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\TheHorror\bin\Debug\TheHorror.exe.config
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\TheHorror\bin\Debug\TheHorror.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\TheHorror\bin\Debug\TheHorror.pdb
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\TheHorror\obj\Debug\TheHorror.csprojResolveAssemblyReference.cache
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\TheHorror\obj\Debug\TheHorror.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\TheHorror\obj\Debug\TheHorror.pdb

@@ -1,0 +1,6 @@
+C:\Users\svetl_000\Documents\Visual Studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\Warheads\bin\Debug\Warheads.exe.config
+C:\Users\svetl_000\Documents\Visual Studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\Warheads\bin\Debug\Warheads.exe
+C:\Users\svetl_000\Documents\Visual Studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\Warheads\bin\Debug\Warheads.pdb
+C:\Users\svetl_000\Documents\Visual Studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\Warheads\obj\Debug\Warheads.csprojResolveAssemblyReference.cache
+C:\Users\svetl_000\Documents\Visual Studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\Warheads\obj\Debug\Warheads.exe
+C:\Users\svetl_000\Documents\Visual Studio 2012\Projects\CSharpFundamentals-2013-2014-Part-3\Warheads\obj\Debug\Warheads.pdb

@@ -1,0 +1,6 @@
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\Sheets\bin\Debug\Sheets.exe.config
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\Sheets\bin\Debug\Sheets.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\Sheets\bin\Debug\Sheets.pdb
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\Sheets\obj\Debug\Sheets.csprojResolveAssemblyReference.cache
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\Sheets\obj\Debug\Sheets.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\Sheets\obj\Debug\Sheets.pdb

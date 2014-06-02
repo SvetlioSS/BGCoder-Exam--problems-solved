@@ -1,0 +1,6 @@
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe.config
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.pdb
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.csprojResolveAssemblyReference.cache
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.exe
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.pdb

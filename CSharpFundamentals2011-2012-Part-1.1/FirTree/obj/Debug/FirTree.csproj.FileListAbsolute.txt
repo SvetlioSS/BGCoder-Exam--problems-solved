@@ -1,0 +1,5 @@
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.1\FirTree\bin\Debug\FirTree.exe.config
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.1\FirTree\bin\Debug\FirTree.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.1\FirTree\bin\Debug\FirTree.pdb
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.1\FirTree\obj\Debug\FirTree.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.1\FirTree\obj\Debug\FirTree.pdb

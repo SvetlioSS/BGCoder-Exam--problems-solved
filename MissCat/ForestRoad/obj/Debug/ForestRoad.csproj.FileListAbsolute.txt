@@ -1,0 +1,5 @@
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\ForestRoad\bin\Debug\ForestRoad.exe.config
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\ForestRoad\bin\Debug\ForestRoad.exe
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\ForestRoad\bin\Debug\ForestRoad.pdb
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\ForestRoad\obj\Debug\ForestRoad.exe
+c:\Users\svetl_000\documents\visual studio 2012\Projects\MissCat\ForestRoad\obj\Debug\ForestRoad.pdb

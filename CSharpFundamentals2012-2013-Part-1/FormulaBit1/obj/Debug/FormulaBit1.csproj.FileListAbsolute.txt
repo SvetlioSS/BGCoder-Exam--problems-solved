@@ -1,0 +1,6 @@
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\FormulaBit1\bin\Debug\FormulaBit1.exe.config
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\FormulaBit1\bin\Debug\FormulaBit1.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\FormulaBit1\bin\Debug\FormulaBit1.pdb
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\FormulaBit1\obj\Debug\FormulaBit1.csprojResolveAssemblyReference.cache
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\FormulaBit1\obj\Debug\FormulaBit1.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\FormulaBit1\obj\Debug\FormulaBit1.pdb

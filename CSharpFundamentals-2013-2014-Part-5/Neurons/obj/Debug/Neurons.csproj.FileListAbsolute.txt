@@ -1,0 +1,6 @@
+C:\Users\svetl_000\Documents\Visual Studio 2012\Projects\CSharpFundamentals-2013-2014-Part-5\Neurons\bin\Debug\Neurons.exe.config
+C:\Users\svetl_000\Documents\Visual Studio 2012\Projects\CSharpFundamentals-2013-2014-Part-5\Neurons\obj\Debug\Neurons.csprojResolveAssemblyReference.cache
+C:\Users\svetl_000\Documents\Visual Studio 2012\Projects\CSharpFundamentals-2013-2014-Part-5\Neurons\bin\Debug\Neurons.exe
+C:\Users\svetl_000\Documents\Visual Studio 2012\Projects\CSharpFundamentals-2013-2014-Part-5\Neurons\bin\Debug\Neurons.pdb
+C:\Users\svetl_000\Documents\Visual Studio 2012\Projects\CSharpFundamentals-2013-2014-Part-5\Neurons\obj\Debug\Neurons.exe
+C:\Users\svetl_000\Documents\Visual Studio 2012\Projects\CSharpFundamentals-2013-2014-Part-5\Neurons\obj\Debug\Neurons.pdb

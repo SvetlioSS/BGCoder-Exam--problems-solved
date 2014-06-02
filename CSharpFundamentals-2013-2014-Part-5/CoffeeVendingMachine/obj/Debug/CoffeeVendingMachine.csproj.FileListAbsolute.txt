@@ -1,0 +1,1 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-5\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.exe.config

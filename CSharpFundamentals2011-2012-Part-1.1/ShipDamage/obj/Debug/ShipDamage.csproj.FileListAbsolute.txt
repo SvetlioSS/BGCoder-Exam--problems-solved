@@ -1,0 +1,6 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.1\ShipDamage\bin\Debug\ShipDamage.exe.config
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.1\ShipDamage\bin\Debug\ShipDamage.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.1\ShipDamage\bin\Debug\ShipDamage.pdb
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.1\ShipDamage\obj\Debug\ShipDamage.csprojResolveAssemblyReference.cache
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.1\ShipDamage\obj\Debug\ShipDamage.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.1\ShipDamage\obj\Debug\ShipDamage.pdb

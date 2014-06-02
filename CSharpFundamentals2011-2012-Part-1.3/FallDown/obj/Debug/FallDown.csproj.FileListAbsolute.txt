@@ -1,0 +1,6 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\FallDown\bin\Debug\FallDown.exe.config
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\FallDown\bin\Debug\FallDown.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\FallDown\bin\Debug\FallDown.pdb
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\FallDown\obj\Debug\FallDown.csprojResolveAssemblyReference.cache
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\FallDown\obj\Debug\FallDown.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\FallDown\obj\Debug\FallDown.pdb

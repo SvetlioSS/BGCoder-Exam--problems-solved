@@ -1,0 +1,6 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe.config
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.pdb
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.csprojResolveAssemblyReference.cache
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.pdb

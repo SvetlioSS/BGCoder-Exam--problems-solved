@@ -1,0 +1,6 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.2\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe.config
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.2\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.2\AstrologicalDigits\bin\Debug\AstrologicalDigits.pdb
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.2\AstrologicalDigits\obj\Debug\AstrologicalDigits.csprojResolveAssemblyReference.cache
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.2\AstrologicalDigits\obj\Debug\AstrologicalDigits.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.2\AstrologicalDigits\obj\Debug\AstrologicalDigits.pdb

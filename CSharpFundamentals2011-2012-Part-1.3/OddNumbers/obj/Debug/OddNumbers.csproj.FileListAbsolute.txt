@@ -1,0 +1,6 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\OddNumbers\bin\Debug\OddNumbers.exe.config
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\OddNumbers\bin\Debug\OddNumbers.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\OddNumbers\bin\Debug\OddNumbers.pdb
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\OddNumbers\obj\Debug\OddNumbers.csprojResolveAssemblyReference.cache
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\OddNumbers\obj\Debug\OddNumbers.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\OddNumbers\obj\Debug\OddNumbers.pdb

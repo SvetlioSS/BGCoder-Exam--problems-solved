@@ -1,0 +1,9 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2\A-nacci\bin\Debug\A-nacci.exe.config
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2\A-nacci\bin\Debug\A-nacci.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2\A-nacci\bin\Debug\A-nacci.pdb
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2\A-nacci\obj\Debug\A-nacci.csprojResolveAssemblyReference.cache
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2\A-nacci\obj\Debug\A-nacci.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2\A-nacci\obj\Debug\A-nacci.pdb
+C:\Users\svetl_000\Desktop\OldTasks\CSharpFundamentals-2012-2013-Part-2\A-nacci\bin\Debug\A-nacci.exe.config
+C:\Users\svetl_000\Desktop\OldTasks\CSharpFundamentals-2012-2013-Part-2\A-nacci\obj\Debug\A-nacci.exe
+C:\Users\svetl_000\Desktop\OldTasks\CSharpFundamentals-2012-2013-Part-2\A-nacci\obj\Debug\A-nacci.pdb

@@ -1,0 +1,6 @@
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\NightMareOnCodeStreet\bin\Debug\NightMareOnCodeStreet.exe.config
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\NightMareOnCodeStreet\bin\Debug\NightMareOnCodeStreet.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\NightMareOnCodeStreet\bin\Debug\NightMareOnCodeStreet.pdb
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\NightMareOnCodeStreet\obj\Debug\NightMareOnCodeStreet.csprojResolveAssemblyReference.cache
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\NightMareOnCodeStreet\obj\Debug\NightMareOnCodeStreet.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-1\NightMareOnCodeStreet\obj\Debug\NightMareOnCodeStreet.pdb

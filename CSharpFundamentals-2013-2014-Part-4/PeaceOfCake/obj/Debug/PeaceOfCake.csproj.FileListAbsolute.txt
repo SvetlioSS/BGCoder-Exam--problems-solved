@@ -1,0 +1,6 @@
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-4\PeaceOfCake\bin\Debug\PeaceOfCake.exe.config
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-4\PeaceOfCake\bin\Debug\PeaceOfCake.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-4\PeaceOfCake\bin\Debug\PeaceOfCake.pdb
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-4\PeaceOfCake\obj\Debug\PeaceOfCake.csprojResolveAssemblyReference.cache
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-4\PeaceOfCake\obj\Debug\PeaceOfCake.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2013-2014-Part-4\PeaceOfCake\obj\Debug\PeaceOfCake.pdb

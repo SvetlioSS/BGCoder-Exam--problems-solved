@@ -1,0 +1,5 @@
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\MathExpression\bin\Debug\MathExpression.exe.config
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\MathExpression\bin\Debug\MathExpression.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\MathExpression\bin\Debug\MathExpression.pdb
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\MathExpression\obj\Debug\MathExpression.exe
+c:\users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2011-2012-Part-1.3\MathExpression\obj\Debug\MathExpression.pdb

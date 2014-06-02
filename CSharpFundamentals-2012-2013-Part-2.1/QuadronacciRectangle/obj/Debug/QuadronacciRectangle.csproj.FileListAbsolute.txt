@@ -1,0 +1,6 @@
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2.1\QuadronacciRectangle\bin\Debug\QuadronacciRectangle.exe.config
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2.1\QuadronacciRectangle\bin\Debug\QuadronacciRectangle.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2.1\QuadronacciRectangle\bin\Debug\QuadronacciRectangle.pdb
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2.1\QuadronacciRectangle\obj\Debug\QuadronacciRectangle.csprojResolveAssemblyReference.cache
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2.1\QuadronacciRectangle\obj\Debug\QuadronacciRectangle.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals-2012-2013-Part-2.1\QuadronacciRectangle\obj\Debug\QuadronacciRectangle.pdb

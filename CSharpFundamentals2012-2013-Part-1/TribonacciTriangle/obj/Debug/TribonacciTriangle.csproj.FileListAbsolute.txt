@@ -1,0 +1,5 @@
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe.config
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\TribonacciTriangle\bin\Debug\TribonacciTriangle.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\TribonacciTriangle\bin\Debug\TribonacciTriangle.pdb
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\TribonacciTriangle\obj\Debug\TribonacciTriangle.exe
+C:\Users\svetl_000\documents\visual studio 2012\Projects\CSharpFundamentals2012-2013-Part-1\TribonacciTriangle\obj\Debug\TribonacciTriangle.pdb
